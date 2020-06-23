@@ -1,0 +1,71 @@
+.logo-cornr{
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 9999;
+    margin: 10px;
+}
+#banner{
+    background-image: linear-gradient(to right, #a517ba,#5f1782);
+    color: #fff;
+    padding-top: 5%;
+}
+.promo-title{
+    font-size: 40px;
+    font-weight: 600;
+    margin-top: 60px;
+    color: yellow;
+}
+.fa{
+    color: yellow;
+}
+.promo-title2{
+    font-size: 30px;
+    font-weight: 600;
+}
+.img-fluid{
+    margin-top: 50px;
+}
+    
+.after_form{
+    font-size: 16px; margin: 0;
+    font-weight: bold;
+    padding:10px 0;
+}
+ul 
+{
+    font-size: 17px;
+    margin: 0;
+    list-style: none; 
+    font-family: 'OpenSans-Light'; 
+    font-weight: bold;
+}
+
+ul li {
+    position: relative; 
+    padding: 4px 0;
+}
+.queries{
+    padding-top: 1%;
+    padding-bottom: 1%;
+    border-radius: 10px;
+    margin-top: 2%;
+    
+}
+.btn{
+    width: 80%;
+    background-image: linear-gradient(120deg, #d4fc79 0%, #96e6a1 100%);
+    color: black;
+    font-weight: 600;
+    font-size: 17px;
+}
+input{
+    width: 70%;
+    border: 1px solid black;
+}
+.foot{
+    margin-top: 5px;
+    font-size: 12px;
+    color: white;
+    
+}
